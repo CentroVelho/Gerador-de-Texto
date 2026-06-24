@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IA Neural Avançada</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        .cursor-blink { animation: blink 1s step-end infinite; }
+        @keyframes blink { 50% { opacity: 0; } }
+    </style>
+</head>
+<body class="bg-gray-900 min-h-screen flex items-center justify-center p-4 font-mono">
+
+    <div class="bg-gray-800 border border-gray-700 p-6 rounded-xl shadow-2xl max-w-2xl w-full space-y-6">
+        <div class="flex items-center gap-3 border-b border-gray-700 pb-4">
+            <div class="w-3 h-3 rounded-full bg-red-500"></div>
+            <div class="w-3 h-3 rounded-full bg-yellow-500"></div>
+            <div class="w-3 h-3 rounded-full bg-green-500"></div>
+            <h1 class="text-xl font-bold text-green-400 ml-2">Neural_Text_Gen v2.0</h1>
+        </div>
+
+        <div>
+            <p class="text-gray-300 text-sm mb-2">Digite uma única palavra para a IA criar o texto com essa palavra</p>
+            <div class="flex gap-2">
+                <input type="text" id="keyword" placeholder="Digite aqui" oninput="this.value = this.value.replace(/\s/g, '')" class="flex-1 bg-gray-900 border border-gray-600 text-green-400 p-3 rounded focus:outline-none focus:border-green-500 placeholder-gray-600">
+                <button onclick="gerarTextoInteligente()" class="bg-green-600 text-white px-6 py-3 rounded font-bold hover:bg-green-500 transition-colors">Processar</button>
+            </div>
+        </div>
+
+        <div id="resultadoBox" class="hidden mt-4">
+            <div class="text-gray-400 text-sm mb-2 flex justify-between">
+                <span>Output gerado:</span>
+                <span id="contador" class="text-green-500"></span>
+            </div>
+            <div class="bg-gray-900 p-5 rounded border border-gray-700 text-gray-200 min-h-[150px] leading-relaxed">
+                <span id="resultado"></span><span id="cursor" class="cursor-blink text-green-500 hidden">█</span>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        const removerAcentos = (str) => str.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+
+        async function gerarTextoInteligente() {
+            const palavra = document.getElementById('keyword').value.trim();
+            const resultado = document.getElementById('resultado');
+            const resultadoBox = document.getElementById('resultadoBox');
+            const contador = document.getElementById('contador');
+            const cursor = document.getElementById('cursor');
+
+            if (!palavra) return;
+
+            resultadoBox.classList.remove('hidden');
+            resultado.innerHTML = "<span class='text-yellow-500'>A analisar base de dados...</span>";
+            cursor.classList.add('hidden');
+            contador.innerText = "";
+
+            try {
+                const resposta = await fetch('./texto.html');
+                if (!resposta.ok) throw new Error("ERRO: texto.html não localizado.");
+                
+                let htmlCru = await resposta.text();
+                
+                // Limpeza pesada: Remove tags, e normaliza espaços excessivos e quebras de linha
+                const tempDiv = document.createElement("div");
+                tempDiv.innerHTML = htmlCru;
+                let textoLimpo = (tempDiv.textContent || tempDiv.innerText || "")
+                    .replace(/\s+/g, ' ')
+                    .trim();
+
+                // Divide em frases considerando a pontuação final
+                const frases = textoLimpo.match(/[^.!?]+[.!?]+/g) || [textoLimpo];
+
+                const palavraLimpa = removerAcentos(palavra.toLowerCase());
+                const regexPalavra = new RegExp(`(?:^|\\s|\\W)(${palavraLimpa})(?:$|\\s|\\W)`, 'i');
+
+                // Filtra as frases ignorando espaços extras
+                let frasesEncontradas = frases.filter(f => {
+                    const fLimpa = removerAcentos(f.toLowerCase().replace(/\s+/g, ' '));
+                    return regexPalavra.test(fLimpa);
+                }).map(f => f.trim()).filter(f => f.length > 3);
+
+                if (frasesEncontradas.length > 0) {
+                    const selecionadas = frasesEncontradas.sort(() => Math.random() - 0.5);
+                    const textoFinal = selecionadas.join(' ');
+
+                    contador.innerText = `[${selecionadas.length} frases encontradas]`;
+                    
+                    resultado.innerHTML = "";
+                    cursor.classList.remove('hidden');
+                    
+                    let i = 0;
+                    function digitar() {
+                        if (i < textoFinal.length) {
+                            resultado.innerHTML += textoFinal.charAt(i);
+                            i++;
+                            setTimeout(digitar, 5); 
+                        } else {
+                            cursor.classList.add('hidden');
+                        }
+                    }
+                    digitar();
+                } else {
+                    resultado.innerHTML = `<span class="text-red-500">Nenhum dado encontrado para "${palavra}".</span>`;
+                }
+
+            } catch (erro) {
+                resultado.innerHTML = `<span class="text-red-500">${erro.message}</span>`;
+            }
+        }
+
+        document.getElementById('keyword').addEventListener('keypress', (e) => {
+            if (e.key === 'Enter') gerarTextoInteligente();
+        });
+    </script>
+</body>
+</html>
