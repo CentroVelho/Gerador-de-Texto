@@ -1,0 +1,2263 @@
+Futebol Clube de Famalicão – Wikipédia, a enciclopédia livre
+Ir para o conteúdo
+Menu principal
+Menu principal
+mover para a barra lateral
+ocultar
+Navegação
+Página principal
+Conteúdo destacado
+Eventos atuais
+Esplanada
+Página aleatória
+Portais
+Páginas especiais
+Informar um erro
+Colaboração
+Boas-vindas
+Ajuda
+Páginas de testes públicas
+Portal comunitário
+Mudanças recentes
+Manutenção
+Criar página
+Páginas novas
+Contato
+Imprimir/exportar
+Criar um livro
+Transferir como PDF
+Versão para impressão
+Noutros projetos
+Wikimedia Commons
+Elemento Wikidata
+Busca
+Procurar
+Aparência
+Doar
+Criar conta
+Iniciar sessão
+Ferramentas pessoais
+Doar
+Criar conta
+Iniciar sessão
+Conteúdos
+mover para a barra lateral
+ocultar
+Início
+1
+História
+Alternar a subsecção História
+1.1
+Reconhecimento nacional
+1.2
+Declínio
+1.3
+Regresso de Szabó e retoma
+1.4
+Regresso à Primeira Divisão e escândalo
+1.5
+Época de ouro
+1.6
+Descida e fase negra
+1.7
+Ponto de viragem
+1.8
+Investimento e regresso à Primeira Liga
+2
+Símbolos do clube
+Alternar a subsecção Símbolos do clube
+2.1
+Emblema
+2.2
+Equipamentos
+2.3
+Material e patrocinadores
+3
+Infraestruturas desportivas
+Alternar a subsecção Infraestruturas desportivas
+3.1
+Estádio Municipal 22 de Junho
+3.2
+Academia FC Famalicão
+4
+Associados e adeptos
+5
+Modalidades
+6
+Futebol
+Alternar a subsecção Futebol
+6.1
+Seniores masculinos
+6.1.1
+Palmarés
+6.1.2
+Outras Conquistas
+6.1.3
+Outros Escalões
+6.1.4
+Dados e estatísticas por Competição
+6.1.5
+Classificações por época
+6.1.6
+Treinadores
+6.2
+Seniores femininos
+6.2.1
+Palmarés
+6.2.2
+Torneios amistosos
+6.2.3
+Dados e estatísticas por Competição
+6.2.4
+Classificações por época
+7
+Presidentes
+8
+Referências
+9
+Ligações externas
+Alternar o índice
+Futebol Clube de Famalicão
+35 idiomas
+العربية
+Беларуская (тарашкевіца)
+Български
+বাংলা
+Català
+Čeština
+Dansk
+Deutsch
+Ελληνικά
+English
+Español
+Eesti
+فارسی
+Suomi
+Français
+Galego
+עברית
+Hrvatski
+Magyar
+Bahasa Indonesia
+Italiano
+日本語
+한국어
+Lietuvių
+Latviešu
+Nederlands
+Norsk bokmål
+Polski
+Русский
+Shqip
+Svenska
+Türkçe
+Українська
+Tiếng Việt
+粵語
+Editar hiperligações
+Artigo
+Discussão
+português
+Ler
+Editar
+Editar código fonte
+Ver histórico
+Ferramentas
+Ferramentas
+mover para a barra lateral
+ocultar
+Ações
+Ler
+Editar
+Editar código fonte
+Ver histórico
+Geral
+Páginas afluentes
+Alterações relacionadas
+Enviar ficheiro
+Hiperligação permanente
+Informação da página
+Citar esta página
+Obter URL encurtado
+Mudar para o analisador sintático antigo
+Imprimir/exportar
+Criar um livro
+Transferir como PDF
+Versão para impressão
+Noutros projetos
+Wikimedia Commons
+Elemento Wikidata
+Aparência
+mover para a barra lateral
+ocultar
+Origem: Wikipédia, a enciclopédia livre.
+&apos;&apos;Fama&apos;&apos;"},"torcedor":{"wt":"Famalicenses"},"mascote":{"wt":"Fama"},"rival":{"wt":"[[Associação Desportiva de Fafe|AD Fafe]]&lt;br/>[[Varzim Sport Club|Varzim SC]]&lt;br/>[[Gil Vicente FC]]"},"fundadoem":{"wt":"{{dtlink|21|08|1931|idade}}"},"estádio":{"wt":"[[Estádio Municipal 22 de Junho]]"},"capacidade":{"wt":"5 186 espectadores"},"local":{"wt":"[[Vila Nova de Famalicão]], [[Portugal]]"},"proprietário":{"wt":"FC Famalicão (15% [[Sociedade Anónima Desportiva|SAD]])&lt;br>[[Quantum Pacific Group|QPG]] (85% [[Sociedade Anónima Desportiva|SAD]])"},"presidente":{"wt":"José Pina Ferreira"},"treinador":{"wt":"Hugo Oliveira"},"material":{"wt":"[[Puma SE|Puma]]"},"patrocinio":{"wt":"Placard.pt"},"liga":{"wt":"[[Primeira Liga]]"},"site":{"wt":"[https://www.fcfamalicao.pt/ fcfamalicao.pt]"},"modelo":{"wt":"padrão"},"skin1":{"wt":"_famalicao2425h"},"skin_be1":{"wt":"_famalicao2425h"},"skin_bd1":{"wt":"_famalicao2425h"},"skin_calção1":{"wt":""},"skin_meia1":{"wt":"_famalicao2425h"},"braçoesquerdo1":{"wt":"FFFFFF"},"corpo1":{"wt":"FFFFFF"},"braçodireito1":{"wt":"FFFFFF"},"calções1":{"wt":"FFFFFF"},"meias1":{"wt":"FFFFFF"},"skin2":{"wt":"_famalicao2425a"},"skin_be2":{"wt":"_famalicao2425a"},"skin_bd2":{"wt":"_famalicao2425a"},"skin_calção2":{"wt":""},"skin_meia2":{"wt":""},"braçoesquerdo2":{"wt":"000066"},"corpo2":{"wt":"000066"},"braçodireito2":{"wt":"000066"},"calções2":{"wt":"000066"},"meias2":{"wt":"000066"},"skin3":{"wt":"_famalicao2425t"},"skin_be3":{"wt":"_famalicao2425t"},"skin_bd3":{"wt":"_famalicao2425t"},"skin_calção3":{"wt":""},"skin_meia3":{"wt":""},"braçoesquerdo3":{"wt":"FF6600"},"corpo3":{"wt":"FF6600"},"braçodireito3":{"wt":"FF6600"},"calções3":{"wt":"FF6600"},"meias3":{"wt":"FF6600"}},"i":0}}]}'>
+FC Famalicão
+Nome
+Futebol Clube de Famalicão
+Alcunhas
+Vila Nova
+Fama
+Torcedor(a)/Adepto(a)
+Famalicenses
+Mascote
+Fama
+Principal rival
+AD Fafe
+Varzim SC
+Gil Vicente FC
+Fundação
+21 de agosto
+de
+1931
+(94
+anos)
+Estádio
+Estádio Municipal 22 de Junho
+Capacidade
+5 186 espectadores
+Localização
+Vila Nova de Famalicão
+,
+Portugal
+Proprietário(a)
+FC Famalicão (15%
+SAD
+)
+QPG
+(85%
+SAD
+)
+Presidente
+José Pina Ferreira
+Treinador(a)
+Hugo Oliveira
+Patrocinador(a)
+Placard.pt
+Material (d)esportivo
+Puma
+Competição
+Primeira Liga
+Website
+fcfamalicao.pt
+Uniforme
+titular
+Uniforme
+alternativo
+Uniforme
+alternativo
+O
+Futebol Clube de Famalicão
+é um clube de futebol português sediado na cidade de
+Vila Nova de Famalicão
+. É mais conhecido pela sua equipa de
+futebol
+profissional, que joga atualmente na
+Liga Portugal Betclic
+, a competição mais importante do futebol português.
+Fundado a 21 de agosto de 1931, é um dos clubes mais representativos da região do
+Minho
+, juntamente com
+Gil Vicente FC
+,
+SC Braga
+e
+Vitória SC
+, e conta com 13 presenças no mais alto escalão do futebol português. Os seus jogos de futebol em casa são realizados no
+Estádio Municipal de Famalicão
+, inaugurado em 1952, com capacidade para 5 186 ugares.
+O clube destaca-se pelo apoio bairrista dos habitantes de
+Famalicão
+que consegue deslocar uma multidão considerável para ver o seu clube da terra jogar dadas suas raízes
+tradicionalistas
+. O clube conta com mais de 6 000
+sócios
+ativos em 2025.
+Atualmente conta com a modalidade de Futebol, masculino e feminino, ambas com a equipa sénior na 1ª Divisão Nacional, dispondo de camadas de formação a partir da sua Academia; e ainda com a modalidade de Futsal, masculino, com a equipa sénior na 2ª Divisão Nacional e também com vários escalões de formação. Recentemente, o clube criou ainda uma secção de BTT, que compete em provas locais/regionais.
+O FC Famalicão ocupa, no final da época 2024/25, a N/D.ª posição no
+Ranking
+de Clubes da UEFA
+[
+1
+]
+e a 332.ª posição no
+Ranking Mundial
+de Clubes da IFFHS
+.
+[
+2
+]
+História
+[
+editar
+|
+editar código
+]
+Primeiros
+tempos
+A 21 de agosto de 1931 é fundado o Foot-ball Club de Famalicão pelas mãos de José Alves Marinho, Floriano Portela, Hildebrando Portela, Luís Pinto, Joaquim Mesquita Jr. e Vergílio Pinto de Azevedo, com o objetivo de ser o principal embaixador desportivo da, então na altura, vila e do concelho. Verde e branco foram as cores da primeira camisola envergada pelos famalicenses.
+A 17 de janeiro de 1932 é inaugurado o primeiro recinto do clube, o Campo da Berberia, numa partida frente ao
+Futebol Clube do Porto
+. No entanto, apenas na época seguinte (1932/33) é que a coletividade famalicense inicia a sua participação em competições oficiais, tendo competido no Campeonato da Promoção da
+Associação de Futebol de Braga
+.
+Participa pela primeira vez no Campeonato Regional de
+Braga
+na temporada de 1934/35. No decurso dessa competição, o Famalicão jogará, oficialmente, pela primeira vez, contra o
+Vitória de Guimarães
+, logo à 2ª jornada da prova, num desafio que terminaria empatado a 2-2.
+Na temporada de 1935/36 o Futebol Clube de Famalicão conquistou o Campeonato Distrital da Promoção e garantiu a subida ao
+Campeonato Regional de Braga
+(1ª Divisão da AF Braga), passando a partir desse momento a disputar com os dois grandes do Minho, Vitória SC e SC Braga, o acesso à
+I Divisão Portuguesa
+.
+[
+3
+]
+[
+4
+]
+Em 1938 o clube adota novos equipamentos, passando a utilizar as cores azul e branco, uma decisão tomada com o objetivo de obter filiação do
+FC Porto
+, o que não se viria a concretizar na altura.
+[
+5
+]
+[
+6
+]
+Reconhecimento nacional
+[
+editar
+|
+editar código
+]
+Em 1941 chega à vila minhota o húngaro János Szabó. Professor de ginástica, fica marcado como uma das personagens incontornáveis da história do Famalicão e um dos principais pilares do sucesso do clube. Chega a Famalicão com as funções de jogador e treinador com apenas 27 anos.
+Entre as temporadas de 1942 e 1947 o
+Vitória de Guimarães
+sagrou-se consecutivamente campeão distrital tendo como principal rival na disputa o Famalicão, que havia suplantado o poderio do
+Sporting de Braga
+.
+Entretanto, o Famalicão começa também a garantir grande projeção a nível nacional, após vencer o Campeonato Nacional da Segunda Divisão em 1945/46 num registo de 10 vitórias em 10 jogos. No entanto, o caminho para o principal escalão português ainda não estava concluído. Após uma linguilha na qual o Famalicão terminaria em segundo, a decisão é feita numa disputa frente ao
+Boavista FC
+que havia terminado a
+Primeira Divisão
+em penúltimo lugar. Neste desafio disputado na
+Póvoa de Varzim
+o Famalicão saiu vencedor, numa vitória por 3-2. A 30 de junho de 1946 o Famalicão alcança pela primeira vez a
+Primeira Divisão
+. Torna-se assim o segundo clube do
+Minho
+a alcançar este escalão, após a estreia do
+Vitória de Guimarães
+em 1941/42.
+Nesse mesmo ano alcança as meias-finais da
+Taça de Portugal
+, sendo eliminado pelo então poderoso
+Sporting Clube de Portugal
+dos
+Cinco Violinos
+. 11-0 foi uma derrota pesada, mas um momento inigualável na história famalicense até 2020, ano em que voltou a atingir as meias-finais da prova rainha do futebol português, 74 anos depois.
+É porem efémera, mas prestigiante, a estreia do Famalicão pela Primeira Divisão na época de 1946-47. A equipa muda-se para o Campo do Freião onde 5000 adeptos assistiram a um empate a 1 golo frente ao
+Vitória de Guimarães
+ou mesmo uma vitória famalicense frente ao
+FC Porto
+por 2-1. O Famalicão termina a temporada com 7 vitórias, 3 empates e 16 derrotas no penúltimo posto da tabela classificativa, sendo relegado de volta para o segundo escalão em nova linguilha, que desta vez ditou derrota famalicense frente ao Lusitano VRSA (3-2).
+Declínio
+[
+editar
+|
+editar código
+]
+Com a saída de János Szabó para o
+Sporting da Covilhã
+após seis anos no clube, o clube assistiu a um longo período de desaires. Durante as épocas seguintes o Famalicão tudo fez para conseguir o regresso ao principal escalão, todavia esse feito só viria a ser repetido praticamente 30 anos depois.
+Nesse período, onde o Famalicão acabaria ainda por ser relegado para a Terceira Divisão, dá-se a melhoria das instalações desportivas do clube. A 21 de setembro de 1952 é inaugurado o
+Campo dos Bargos
+, agora denominado de Estádio Municipal de Famalicão.
+Regresso de Szabó e retoma
+[
+editar
+|
+editar código
+]
+Crescia contudo o sentimento bairrista e o apoio ao Famalicão, permitindo ao clube ter uma das melhores situações financeiras entre os clubes da região. Em 1962 regressa János Szabó e o clube regressa à Segunda Divisão Nacional após uma finalíssima frente ao
+FC Tirsense
+. Durante 15 anos o Famalicão permanece neste escalão.
+Em 1976 a direção efetua uma aposta séria na equipa e finalmente em 1977/78 o clube regressa ao principal escalão nacional após conquistar o título de campeão da Segunda Divisão.
+Com o técnico Mário Imbelloni aos comandos da equipa famalicense, a passagem do Famalicão pela Primeira Divisão na temporada de 1978/79 voltou a ser efémera. O Famalicão lutou até à última jornada pela manutenção, mas viria a terminar no 13° lugar da classificação, entre 16 equipas, descendo de divisão com os mesmos pontos do 12°, o Beira-Mar, que acabou por cima devido ao critério de desempate do confronto direto.
+É no segundo escalão que o clube haveria de continuar durante mais outra década.
+Regresso à Primeira Divisão e escândalo
+[
+editar
+|
+editar código
+]
+Em 1987/88, comandado pela ex-glória do
+FC Porto
+,
+Rodolfo Reis
+, o Famalicão vence a Zona Norte e sagra-se novamente campeão da Segunda Divisão numa fase final disputada com o
+Académico de Viseu
+e o
+Estrela da Amadora
+.
+Porém, já com duas jornadas disputadas na
+Primeira Divisão
+(derrota na Choupana frente ao Nacional por 2-0 e vitória caseira frente ao Académico de Viseu por 1-0) o Famalicão foi punido disciplinarmente pela Federação Portuguesa de Futebol. Perdeu o título de campeão da Segunda Divisão e foi relegado para a Terceira Divisão.
+Em causa estaria um encontro decisivo da fase de subida ao principal escalão entre o Famalicão e o Macedo de Cavaleiros. Encontro que o Famalicão acabaria por vencer na secretaria, após uma invasão de campo. A vitória foi decisiva na subida do Famalicão, mas a
+AD Fafe
+alegou que a invasão haveria sido encenada a troco de dinheiro. O caso acabou por ser confirmado pelo próprio presidente do Macedo de Cavaleiros que acabaria por acompanhar o Famalicão na descida ao terceiro escalão enquanto a formação Fafense via a sua estreia, e até hoje única participação, no principal escalão do futebol português.
+Com uma equipa preparada para a Primeira Divisão, o Famalicão disputou o terceiro escalão do futebol português durante a temporada de 1988-89. Naturalmente, venceu a sua série e subiu novamente à Segunda Divisão, que disputou na época de 1989/90.
+O escândalo de corrupção não acabaria aqui e em Junho de 1990 o presidente do Macedo de Cavaleiros voltou a surgir em público a garantir que, afinal, nunca tinha havido suborno e que tudo não passara de uma vingança pessoal contra o presidente do Famalicão. O caso foi novamente julgado, desta vez favoravelmente ao Famalicão, que voltou à
+Primeira Liga
+em 1990/91, obrigando os dirigentes a alargar o campeonato para 20 equipas, e viu o título de campeão da Segunda Divisão devolvido.
+[
+7
+]
+Época de ouro
+[
+editar
+|
+editar código
+]
+O início da década de 90 será, seguramente, os anos dourados da história do Famalicão. Foram quatro presenças consecutivas na
+Primeira Liga
+. Embora sofridamente conseguidas as manutenções, é um facto, é muito relevante a prestação da equipa famalicense. Na primeira temporada, destaque para o papel do treinador brasileiro
+Abel Braga
+e a forte defensiva famalicense, a 5ª melhor da prova, composta por jogadores de grande envergadura e calibre como Tanta, Ben-Hur e Lula e a qualidade técnica do médio
+Cacioli
+.
+Na época seguinte o Famalicão ambiciona outros voos com a contratação do prestigiado técnico
+Josip Skoblar
+, no entanto sem sucesso, acabando por ser determinante a entrada do Professor Neca para o comando técnico, recuperando uma equipa moribunda e condenada a descer de divisão. Consegue terminar o campeonato 1 ponto acima da linha de descida.
+A terceira temporada trouxe a melhor participação nestes quatro anos. O Famalicão conseguiu aquele que é o seu recorde de invencibilidade na competição até hoje - 12 jogos consecutivos sem perder, com 4 vitórias e 8 empates - ganhou frente ao FC Porto nas Antas (0-1), uma tarefa quase impensável para qualquer equipa na altura, e venceu também o Benfica em casa (1-0). Sonhou durante grande parte do campeonato com a Europa, ao passar várias jornadas no 6° lugar da prova, mas uma quebra nas derradeiras jornadas atirou a equipa para o 14° lugar da classificação final, com apenas 2 pontos de vantagem para a primeira equipa despromovida.
+Descida e fase negra
+[
+editar
+|
+editar código
+]
+Após quatro épocas no limiar da manutenção, o Famalicão termina 1993/94 em 17º lugar e é relegado à
+Segunda Liga
+, fruto de problemas económicos e diretivos que haveriam de acompanhar o clube durante anos.
+Em 1996/97 o Famalicão é novamente relegado, para o terceiro escalão (
+Segunda Divisão
+) e após duas tentativas falhadas de regresso à
+Segunda Liga
+nas épocas de 1999/00 e 2000/01, a situação económica do clube agrava-se, traduzindo-se num claro desinvestimento na equipa principal, sendo novamente relegado à
+Terceira Divisão
+em 2002.
+Por estes escalões haveria de caminhar o Famalicão, incluindo uma curta passagem pelo campeonato distrital em 2008/09, fruto de direções instáveis e do declínio financeiro em que se encontrava o clube.
+Ponto de viragem
+[
+editar
+|
+editar código
+]
+A entrada de uma direção estável em 2009 e o forte apoio da massa associativa culminaram em sucessivas subidas de divisão. Em 2011 finalmente alcançou o regresso à Segunda Divisão "B". Em 2014, num feito notável, o Famalicão regressa aos campeonatos profissionais, após a conquista do primeiro lugar na fase de subida do
+Campeonato Nacional de Seniores
+. Na final decisiva do título de campeão, o
+CD Mafra
+acabaria por levar a melhor na marca de grandes penalidades após um empate a 1 no prolongamento.
+No regresso à
+Segunda Liga
+o Famalicão destaca-se no número de assistência no seu estádio, chegando mesmo a ultrapassar vários clubes da
+Primeira Liga
+. Seguem-se 3 temporadas no segundo escalão com prestações razoáveis a assegurar a manutenção da turma famalicense, com destaque para o 6° lugar logo na primeira aparição em 2015/16.
+Investimento e regresso à Primeira Liga
+[
+editar
+|
+editar código
+]
+No início da época de
+2018/19
+, 51% do capital da
+Sociedade Anónima Desportiva
+(SAD) foi adquirida pela
+Quantum Pacific Group
+, uma empresa que detém também 33% do capital do
+Atlético Madrid
+.
+[
+8
+]
+Este projeto é ambicioso e tem um plano bem delineado: colocar o Famalicão na lista dos melhores clubes portugueses.
+O investimento é forte e os frutos são colhidos rapidamente. A 28 de abril de 2019 alcançou o tão desejado regresso ao principal escalão do futebol português, a
+Primeira Liga
+, após 25 anos em escalões inferiores.
+[
+9
+]
+Termina a temporada destacadamente na segunda posição atrás do
+FC Paços de Ferreira
+, alcançando a subida a 3 jornadas do término da temporada.
+A 11 de Setembro de 2019 o principal investidor do FC Famalicão aumentou a sua participação na SAD. A Quantum Pacific Group passou de 51% para 85% do capital social da SAD. Os restantes 15% continuam na posse do Futebol Clube de Famalicão.
+[
+10
+]
+Na temporada
+2019/20
+, o Famalicão consegue a posição de primeiro classificado da 4ª à 7ª jornadas na primeira volta da liga, transformando-se assim numa equipa "sensação", porém acabando a temporada no 6° lugar, sendo esta a melhor campanha do Famalicão na
+primeira divisão portuguesa.
+[
+11
+]
+Chegou também às meias finais da Taça de Portugal, apenas pela 2ª vez na sua história, tendo disputado a eliminatória frente ao campeão nacional Benfica até ao último segundo, com um agregado final de 4-3 para os lisboetas (3-2 no Estádio da Luz, jogo decidido no último lance do jogo, e 1-1 no Municipal de Famalicão)
+As 4 épocas seguintes trouxeram um Famalicão consolidado no futebol português, com presenças na primeira metade da tabela em todas elas (9° em 2020/21, 8° em 2021/22, 2022/23 e 2023/24). 2023/24 destaca-se das restantes, já que significou a segunda maior pontuação de sempre do clube no principal escalão do futebol português (44 pontos), apenas superada pela grande época de 2019-20. O clube alcançou também as meias finais da Taça de Portugal pela 3ª vez na sua história, replicando o feito conseguido em 1945/46 e em 2019/20. Deu novamente muita luta a um dos 3 grandes, o FC Porto, e apenas caiu no último minuto do prolongamento. Depois da vitória portista em Vila Nova de Famalicão (1-2), o 'Fama' devolveu o resultado no Dragão com uma exibição fantástica, forçando um inesperado prolongamento que acabou de forma trágica para os famalicenses, com 2 golos de rajada já para lá dos 120 minutos, fixando o resultado final em 3-2 (5-3 na eliminatória) quando tudo apontava para que o 'Vila Nova' pudesse sonhar com um presença na final no desempate por grandes penalidades.
+Em 2024/25 o FC Famalicão volta a estar presente na Primeira Liga, naquela que é a sua 12ª participação na prova, a 6ª consecutiva.
+Símbolos do clube
+[
+editar
+|
+editar código
+]
+Emblema
+[
+editar
+|
+editar código
+]
+Primeiro símbolo do FC Famalicão
+O emblema do clube minhoto sofreu poucas alterações ao longo dos anos, sendo as intervenções efetuadas apenas no âmbito de modernização do mesmo.
+[
+12
+]
+Tal não poderia deixar de o ser, pois iria contra os estatutos do clube. No artigo 3º referem que o emblema deverá ser em forma de escudo, de campo azul e branco, rodeado por uma faixa superior prateada com as iniciais "FCF" e por uma coroa de louros prateada.
+[
+13
+]
+Equipamentos
+[
+editar
+|
+editar código
+]
+Material e patrocinadores
+[
+editar
+|
+editar código
+]
+Período
+Material Desportivo
+Patrocinador
+1974–1987
+Adidas
+1988–1989
+FOCOR
+1990–1991
+Luso Grupos
+1991–1992
+Jade
+1992–1995
+Erbacher
+Desconhecido
+1995–1996
+Umbro
+Mercadona
+[
+14
+]
+1996–2000
+CM Famalicão
+2000–2004
+Lotto
+2004–2007
+Lacatoni
+2007–2009
+Treze
+2009–2011
+Macron
+REMO
+2011–2012
+MKA
+2012–2014
+Stadio
+JMS
+2014–2016
+Lacatoni
+AMOB
+2016–2019
+Porminho
+[
+15
+]
+2019–2021
+Macron
+[
+16
+]
+2019–2024
+Placard.pt
+[
+17
+]
+2024–
+Presente
+Puma
+Infraestruturas desportivas
+[
+editar
+|
+editar código
+]
+Estádio Municipal 22 de Junho
+[
+editar
+|
+editar código
+]
+O
+Estádio Municipal 22 de Junho
+é o
+estádio
+municipal de
+Vila Nova de Famalicão
+, sendo sobretudo usado para os jogos do FC Famalicão. Aberto em 1952 (21 anos após a fundação do clube), recebeu em 2015 as suas últimas obras de remodelação, em consequência do regresso do Famalicão aos campeonatos profissionais. Tem a capacidade de 5 186 lugares segundo dados oficiais da Liga, campo relvado, iluminação artificial e cadeiras individuais, bem como um campo de futebol secundário adjacente.
+[
+18
+]
+Atualmente a Câmara Municipal de
+Vila Nova de Famalicão
+tem um plano de modernização do estádio para 2019. Este plano inclui o rebaixamento do relvado para alocar mais 1.500 lugares, eliminando a pista de atletismo. A obra contempla duas bancadas, ambas cobertas, sendo que a poente terá capacidade para 2.660 espectadores e irá incluir um novo edifício de três pisos, com balneários, sala de imprensa, área administrativa e outras valências. A bancada nascente terá 4.340 lugares. O espaço adjacente será também alvo de intervenção com a criação de uma praça atrás da bancada poente e obras de melhoramento nas outras praças existentes, bem como a criação de mais lugares de estacionamento.
+[
+19
+]
+O novo estádio estará preparado ainda para eventual necessidade de expansão da capacidade para os 10.000 lugares com a criação de duas bancadas de 1.500 lugares atrás das balizas. A obra está orçada em 8 milhões de euros e tem como intuito a preparação do
+Municipal
+para jogos da
+Primeira Liga
+, competição em que o Famalicão atualmente se encontra.
+Academia FC Famalicão
+[
+editar
+|
+editar código
+]
+O maior investimento de sempre dFutebol Clube de Famalicãoo  é um equipamento moderno, versátil e destinado à formação do clube. A Academia FC Famalicão foi inaugurada em 2 de Junho de 2018, um ano depois de lançada a primeira pedra da obra.
+[
+20
+]
+Construída com equipamentos de última geração e para corresponder aos parâmetros de exigência de certificação da Federação Portuguesa de Futebol, a Academia tem três relvados de piso sintético e 1 de relva natural, balneários para 12 equipas, espaços de estudo, de lazer, loja do clube, gabinetes técnicos, ginásio, auditório e residência para jogadores.
+[
+21
+]
+Associados e adeptos
+[
+editar
+|
+editar código
+]
+O clube beneficia do carisma dos habitantes locais. O bairrismo que se vive na cidade e um pouco por todo o concelho famalicense reflete-se no intenso apoio dado em todos os jogos em casa e também fora. O auge do Famalicão, quando militou a
+Primeira Liga
+durante 4 épocas consecutivas, marcou também um pico no apoio.
+[
+22
+]
+Apesar do período negativo dos anos 2000, o apoio dos sócios manteve-se, tendo sido um dos fatores essenciais para a retoma do clube. Foi em 2019, aliás, que impulsionado pela subida à primeira divisão, que o clube atinge uns incríveis 9 500 sócios, o maior desde que há registo.
+[
+23
+]
+Contudo, esse número baixou para 6 000, em 2025, após a renumeração dos sócios. Hoje em dia, o
+Municipal 22 de Junho
+volta a encher com frequência e o Famalicão leva adeptos a todos os estádios do país.
+[
+24
+]
+Modalidades
+[
+editar
+|
+editar código
+]
+Modalidades do FC de Famalicão
+Futebol
+eSports
+[
+25
+]
+Futsal
+[
+26
+]
+Futebol
+[
+editar
+|
+editar código
+]
+Seniores masculinos
+[
+editar
+|
+editar código
+]
+Palmarés
+[
+editar
+|
+editar código
+]
+Competições Nacionais
+Competição
+Venceu
+Temporadas
+Segunda Divisão
+2
+1977/78 e 1987/88
+Competições Regionais
+Competição
+Venceu
+Temporadas
+AF Braga Torneio de Abertura
+Extinta
+3
+1982/83, 1984/85 e 1986/87
+AF Braga Taça de Honra
+Extinta
+1
+1986/87
+AF Braga 1ª Divisão
+2
+1954/55 e 1961/62
+Total
+Conquistas Oficiais
+Venceu
+Conquistas
+8
+2 Nacionais, 6 Regionais
+Outras Conquistas
+[
+editar
+|
+editar código
+]
+1
+Taça da Inauguração do Campo dos Bargos: 21/09/1952
+1
+Troféu Emílio Macedo: 04/08/2023
+[
+27
+]
+Outros Escalões
+[
+editar
+|
+editar código
+]
+Jun.A Sub-19
+1
+Nacional I Divisão: 2022/23
+[
+28
+]
+1
+Nacional II Divisão: 2018/19
+1
+AF Braga Divisão de Honra: 2015/16
+1
+AF Braga Taça: 2015/16
+Jun.B Sub-17
+2
+AF Braga Taça: 2012/13, 2018/19
+B
+Jun.C Sub-15
+1
+AF Braga Divisão de Honra: 2012/13
+Dados e estatísticas por Competição
+[
+editar
+|
+editar código
+]
+Competições Nacionais
+Competição
+Participações
+Partidas
+Vitórias
+Empates
+Derrotas
+Golos Marcados
+Golos Sofridos
+Melhor Posição
+Primeira Liga
+12
+383
+113
+107
+163
+439
+604
+6º Lugar
+Segunda Liga
+6
+228
+87
+54
+87
+273
+274
+2º Lugar
+Campeonato de Portugal
+2
+65
+35
+16
+14
+96
+54
+2º Lugar
+Segunda Divisão
+Extinta
+48
+1215
+504
+311
+400
+1878
+1557
+Vencedor
+Terceira Divisão
+Extinta
+8
+213
+99
+47
+67
+329
+263
+2º Lugar
+Taça de Portugal
+66
+189
+100
+25
+64
+350
+262
+1/2 Final
+Taça da Liga
+8
+17
+6
+4
+7
+17
+17
+Fase de Grupos
+Atualizado em 16 de janeiro de 2025
+Classificações por época
+[
+editar
+|
+editar código
+]
+Época
+Nível
+Divisão
+Classificação
+Taça de Portugal
+Taça da Liga
+1986–87
+2
+Segunda Divisão
+9º
+1/16
+-
+1987–88
+2
+Segunda Divisão
+1º
+3E
+-
+1988–89
+3
+Terceira Divisão
+1º
+1/64
+-
+1989–90
+2
+Segunda Divisão
+2º
+1/32
+-
+1990–91
+1
+Primeira Liga
+15º
+1/8
+-
+1991–92
+1
+Primeira Liga
+14º
+1/8
+-
+1992–93
+1
+Primeira Liga
+14º
+4E
+-
+1993–94
+1
+Primeira Liga
+17º
+1/8
+-
+1994–95
+2
+Segunda Liga
+12º
+1/8
+-
+1995–96
+2
+Segunda Liga
+17º
+3E
+-
+1996–97
+3
+Segunda Divisão B
+3º
+2E
+-
+1997–98
+3
+Segunda Divisão B
+10º
+2E
+-
+1998–99
+3
+Segunda Divisão B
+10º
+4E
+-
+1999–00
+3
+Segunda Divisão B
+2º
+4E
+-
+2000–01
+3
+Segunda Divisão B
+2º
+1/4
+-
+2001–02
+3
+Segunda Divisão B
+20º
+2E
+-
+2002–03
+4
+Terceira Divisão
+6º
+1E
+-
+2003–04
+4
+Terceira Divisão
+10º
+3E
+-
+2004–05
+4
+Terceira Divisão
+2º
+3E
+-
+2005–06
+3
+Segunda Divisão B
+7º
+2E
+-
+2006–07
+3
+Segunda Divisão B
+5º
+4E
+-
+2007–08
+4
+Terceira Divisão
+13º
+1E
+-
+2008–09
+5
+Divisão de Honra AF Braga
+2º
+-
+-
+2009–10
+4
+Terceira Divisão
+3º
+1E
+-
+2010–11
+4
+Terceira Divisão
+2º
+1E
+-
+2011–12
+3
+Segunda Divisão B
+7º
+3E
+-
+2012–13
+3
+Segunda Divisão B
+9º
+1E
+-
+2013–14
+3
+Campeonato Nacional de Seniores
+8º
+3º
+4E
+-
+2014–15
+3
+Campeonato Nacional de Séniores
+2º
+1º
+1/4
+-
+2015–16
+2
+Segunda Liga
+6º
+3E
+FG
+2016–17
+2
+Segunda Liga
+15º
+3E
+1F
+2017–18
+2
+Segunda Liga
+14º
+4E
+1F
+2018–19
+2
+Segunda Liga
+2º
+2E
+1F
+2019–20
+1
+Primeira Liga
+6º
+MF
+[
+29
+]
+2F
+[
+30
+]
+2020–21
+1
+Primeira Liga
+9º
+4E
+-
+2021–22
+1
+Primeira Liga
+8º
+[
+31
+]
+1/8
+[
+carece
+de fontes
+?
+]
+FG
+[
+32
+]
+2022–23
+1
+Primeira Liga
+8º
+[
+33
+]
+MF
+[
+34
+]
+FG
+[
+35
+]
+2023–24
+1
+Primeira Liga
+-
+-
+-
+Fase de subida do CNS
+Fase de permanência do CNS
+Legenda das cores na pirâmide do futebol português
+1º nível (1ª Divisão / 1ª Liga)
+2º nível (até 1989/90 como 2ª Divisão Nacional, dividido por zonas, em 1990/91 foi criada a 2ª Liga)
+3º nível (até 1989/90 como 3ª Divisão Nacional, depois de 1989/90 como 2ª Divisão B/Nacional de Seniores/Campeonato de Portugal)
+4º nível (entre 1989/90 e 2012/2013 como 3ª Divisão, entre 1947/48 e 1989/90 e após 2013/14 como 1ª Divisão Distrital)
+5º nível
+6º nível
+7º nível
+Treinadores
+[
+editar
+|
+editar código
+]
+#
+Treinador
+Tempo em funções
+Títulos
+Jogos
+Vitórias
+Empates
+Derrotas
+...
+???
+???-13
+-
+-
+-
+-
+1
+José Vieira
+2013-14
+-
+16
+6
+3
+7
+2
+José Ferreira
+2013-14
+-
+2
+1
+1
+3
+José Vilaça
+2013-14
+-
+5
+0
+2
+3
+4
+Daniel Ramos
+[
+36
+]
+2013-16
+-
+102
+55
+30
+17
+5
+Ulisses Morais
+[
+37
+]
+2016-17
+-
+13
+4
+3
+6
+6
+Rui Silva
+[
+38
+]
+2016-17
+-
+1
+0
+0
+1
+7
+Nandinho
+[
+39
+]
+2016-17
+-
+24
+7
+8
+9
+8
+Dito
+2016-18
+-
+32
+14
+6
+12
+9
+Vasco Seabra
+[
+40
+]
+2017-18
+-
+17
+5
+3
+9
+10
+Sérgio Vieira
+2018-19
+-
+28
+14
+7
+7
+11
+Carlos Pinto
+[
+41
+]
+2018-19
+-
+8
+7
+0
+1
+12
+João Pedro Sousa
+[
+42
+]
+2019-23
+-
+96
+38
+25
+33
+13
+Jorge Silas
+2020-21
+-
+6
+1
+2
+3
+14
+Ivo Vieira
+[
+43
+]
+2020-22
+-
+33
+13
+8
+12
+15
+Rui Pedro Silva
+[
+44
+]
+2021-22
+-
+27
+8
+9
+10
+Negrito
+- Atual Treinador
+Seniores femininos
+[
+editar
+|
+editar código
+]
+Em 2019, o FC Famalicão aposta numa nova modalidade, o
+Futebol Feminino
+, modalidade que cresceu bastante e rapidamente levou a equipa ao topo do futebol feminino português, com uma Taça de Portugal conquistada em 2023. Atualmente, o Famalicão continua na
+1ª Divisão Nacional
+, a Liga BPI.
+Palmarés
+[
+editar
+|
+editar código
+]
+Competições Nacionais
+Competição
+Títulos
+Temporadas
+Taça de Portugal Feminino
+1
+2022/23
+[
+45
+]
+Torneios amistosos
+[
+editar
+|
+editar código
+]
+Futebol Feminino Sub-19
+1
+1º Feirense Ladies Cup: 2019
+[
+46
+]
+Dados e estatísticas por Competição
+[
+editar
+|
+editar código
+]
+Estatísticas nas Competições Nacionais
+Competição
+Participações
+Partidas
+Vitórias
+Empates
+Derrotas
+Golos Marcados
+Golos Sofridos
+Melhor Posição
+Primeira Liga
+5
+100
+46
+10
+44
+192
+146
+4º Lugar
+Segunda Divisão
+1
+16
+16
+0
+0
+222
+3
+Vencedor
+Taça de Portugal
+6
+22
+17
+1
+4
+100
+22
+Vencedor
+Taça da Liga
+5
+14
+5
+2
+7
+9
+17
+1/2 Final
+Supertaça
+2
+4
+0
+1
+3
+1
+8
+4º Lugar
+Atualizado em 16 de janeiro de 2025
+Classificações por época
+[
+editar
+|
+editar código
+]
+Época
+Nível
+Divisão
+Classificação
+Taça de Portugal
+Taça da Liga
+2019/2020
+2
+Segunda Divisão
+-*
+MF
+2020/2021
+1
+Primeira Divisão
+4º
+3E**
+MF
+2021/2022
+1
+Primeira Divisão
+4º
+Finalista
+MF
+2022/2023
+1
+Primeira Divisão
+4º
+Vencedor
+MF
+*
+Em 2019/2020 o campeonato foi anulado devido ao
+Covid-19
+** Competição não foi retomado ficando os clubes na "3ª Eliminatória" devido ao
+Covid-19
+Presidentes
+[
+editar
+|
+editar código
+]
+#
+Período
+Presidente
+[
+47
+]
+Feitos e Marcos
+1
+1931/34
+José Alves Marinho
+Fundação do clube
+Inauguração do Campo da Berberia (1932)
+2
+1934/35
+Amadeu Mesquita
+3
+1935/38
+José Teixeira
+Campeonato Distrital da Promoção
+[
+48
+]
+4
+1938/40
+Joaquim Malvar Ramos
+5
+1940/40
+Manuel Silva Brandão
+6
+1940/41
+José Paupério
+7
+1941/43
+Arlindo Mesquita
+8
+1943/45
+Heitor Carvalho
+9
+1945/46
+Manuel Gonçalves
+10
+1946/50
+José Casimiro Da Silva
+Pela primeira vez na 1ª Divisão
+Construção do Campo dos Bargos (1948)
+11
+1950/51
+Eduardo Pereira Lemos
+12
+1951/52
+José Casimiro Da Silva
+13
+1952/54
+Eduardo Pereira Lemos
+Inauguração do Campo dos Bargos (1952)
+14
+1954/56
+Raul Bezerra
+AF Braga 1ª Divisão
+15
+1956/57
+Oscar Manuel Ilhão Peixoto
+16
+1957/59
+Luis Duarte Santos Aguiar
+17
+1959/63
+Luis Gonçalves
+AF Braga 1ª Divisão
+18
+1963/63
+António Silva Barbosa
+19
+1963/65
+Gabrisl A. S. Couto
+20
+1965/65
+Heitor Carvalho
+21
+1965/66
+Durval Ferreira
+22
+1966/66
+António Pinto Malheiro
+23
+1966/67
+Camilo Carvalho Fonseca
+24
+1967/68
+José Ribeiro Barbosa Torres
+25
+1968/69
+Alberto Calisto
+26
+1969/73
+Luis Gonçalves
+27
+1973/73
+Alvaro Gil Areias Marques
+28
+1973/75
+Manuel Ortiga Da Cunha
+29
+1975/76
+Clovis Remigio De Sousa
+30
+1976/76
+Francisco Bessa Pinto Cardoso
+31
+1976/77
+Armindo Alves Da Fonseca
+32
+1977/78
+José Mesquita Oliveira
+Segunda Divisão
+[
+48
+]
+33
+1978/79
+Alvaro Gil Areias Marques
+34
+1979/79
+Arlindo Ferreira Da Silva
+35
+1979/80
+Carlos Manuel Pereira Pinho
+36
+1980/81
+Mário Mota Reis
+37
+1981/82
+Domingos Carvalho Machado
+38
+1982/83
+Afonso Henriques Marques Queiros
+AF Braga Torneio de Abertura
+39
+1983/85
+Domingos Lopes De Castro
+AF Braga Torneio de Abertura
+40
+1985/87
+Joaquim Virgilio L. Almeida Costa
+AF Braga Taça de Honra
+AF Braga Torneio de Abertura
+41
+1987/89
+Fernando Armindo Alves Costa
+Segunda Divisão
+[
+48
+]
+42
+1989/90
+Nuno Castro Carvalho
+43
+1990/91
+Fernando Armindo Alves Costa
+44
+1991/92
+Joaquim Virgilio L. Almeida Costa
+45
+1992/93
+Constantino Da Costa Gomes
+46
+1993/94
+Domingos Lopes De Castro
+47
+1994/94
+Clovis Remigio De Sousa
+48
+1994/97
+Manuel Moniz Azevedo
+49
+1997/98
+Constantino Da Costa Gomes
+50
+1998/98
+António Joaquim Macedo Teixeira
+51
+1998/02
+Manuel Moniz Azevedo
+52
+2002/02
+André Vieira De Castro
+53
+2002/06
+Constantino Da Costa Gomes
+54
+2006/07
+José Luis Moreira Martins
+55
+2007/08
+José Pereira Carneiro Da Silva
+56
+2008/09
+Carlos António Maia Carreira
+57
+2009/13
+João Antonio Silva Araújo
+58
+2013/15
+José Mota Pina Ferreira
+Regresso à
+Segunda Liga
+59
+2015/23
+Joaquim Jorge Alves Silva
+Formação da
+Sociedade Anónima Desportiva
+(SAD)
+[
+8
+]
+Inauguração da Academia.
+[
+20
+]
+Regresso à
+Primeira Liga
+após 25 anos.
+[
+9
+]
+Criação do Futebol Feminino
+Criação do Futebol Sub-23
+[
+49
+]
+Criação da modalidade
+eSports
+[
+50
+]
+Criação da modalidade Futsal
+[
+26
+]
+Taça de Portugal Feminino
+[
+45
+]
+Campeão Futebol Sub-19
+[
+28
+]
+Referências
+[
+editar
+|
+editar código
+]
+↑
+UEFA.com.
+«Club coeficients 2024/25»
+.
+UEFA.com
+(em inglês)
+. Consultado em 11 de agosto de 2024
+↑
+«IFFHS»
+.
+www.iffhs.com
+. Consultado em 29 de julho de 2025
+↑
+«História»
+.
+FC Famalicão
+. Consultado em 30 de julho de 2025
+↑
+Fernandes, João Miguel (2022).
+História Centenária da Associação de Futebol de Braga
+(PDF)
+. Braga: Associação Futebol de Braga
+↑
+«História – FC Famalicão»
+.
+FC Famalicão
+. Consultado em 26 de maio de 2019
+↑
+«Glórias do Passado – FC Famalicão»
+.
+Glórias do Passado
+. Consultado em 16 de junho de 2019
+↑
+«AD Fafe: o escândalo do suborno e o árbitro vestido de polícia»
+.
+MaisFutebol
+. Consultado em 16 de junho de 2019
+1
+2
+«FC Famalicão confirma entrada de Quantum Pacific Group na SAD»
+.
+Cidade Hoje
+. Consultado em 17 de dezembro de 2018
+1
+2
+«Famalicão volta à I Liga 25 anos depois»
+.
+www.dn.pt
+. Diário de Notícias
+. Consultado em 26 de maio de 2019
+↑
+"},"acessodata":{"wt":"16 janeiro 2025"}},"i":0}}]}'>
+«Relatorio-e-Contas-2022-23.pdf»
+(PDF)
+. 28 setembro 2023
+. Consultado em
+16 janeiro
+2025
+↑
+«Quantum Pacific Group reforça posição na SAD do FC Famalicão»
+.
+FC Famalicão
+. 11 de setembro de 2019
+. Consultado em 12 de setembro de 2019
+↑
+«Histórico de Camisas Famalicão»
+.
+Football Kit Archive
+. Consultado em 16 de janeiro de 2025
+↑
+«As cores do clube»
+.
+FC Famalicão
+. 15 de julho de 1938
+. Consultado em 16 de janeiro de 2025
+↑
+«Equipamento de 1995/96»
+. Consultado em 14 de maio de 2020
+↑
+«FC Famalicão renova parceria com Porminho»
+.
+FC Famalicão
+. 19 de julho de 2019
+. Consultado em 28 de julho de 2019
+↑
+«Macron é o novo parceiro do FC Famalicão»
+.
+FC Famalicão
+. 27 de junho de 2019
+. Consultado em 28 de julho de 2019
+↑
+Placard.pt (14 de julho de 2021).
+«Placard.pt é o novo main sponsor do FC Famalicão»
+.
+blog Placard.pt
+. Consultado em 1 de outubro de 2021
+↑
+«Instalações»
+.
+FC Famalicão
+. Consultado em 24 de agosto de 2024
+↑
+«Câmara investe oito milhões para ter um estádio de "primeira
+"
+»
+.
+Público
+. Consultado em 17 de dezembro de 2018
+1
+2
+Liga Portugal (2 de junho de 2018),
+FC Famalicão inaugura Academia de futebol
+, consultado em 26 de maio de 2019
+↑
+«Instalações»
+. FC Famalicão
+. Consultado em 26 de março de 2019
+↑
+Lima, Rui (21 de setembro de 2024).
+«Fama Boys»
+.
+Notícias de Famalicão
+. Consultado em 16 de janeiro de 2025
+↑
+«Sócios, camisolas e lugares anuais: o lado B do líder Famalicão»
+.
+O Jogo
+. Consultado em 16 de janeiro de 2025
+↑
+«Dois adeptos na bancada a mais de 550 km de casa, um deles era ele»
+.
+Maisfutebol
+. Consultado em 16 de janeiro de 2025
+↑
+«FC Famalicão adere ao eSports com duas contratações»
+.
+FC Famalicão
+. 27 de setembro de 2019
+. Consultado em 27 de setembro de 2019
+1
+2
+«FC Famalicão une-se ao SC Cabeçudense na modalidade de futsal – FC Famalicão»
+. Consultado em 1 de outubro de 2021
+↑
+«Famalicão bate Chaves no Troféu Emílio Macedo»
+.
+www.record.pt
+. Consultado em 5 de agosto de 2023
+1
+2
+«Famalicão goleia Benfica e é campeão de juniores pela primeira vez.»
+.
+O Jogo
+. 27 de maio de 2023
+. Consultado em 13 de julho de 2023
+↑
+«Voltou a saber a pouco»
+.
+FC Famalicão
+. 12 de fevereiro de 2020
+. Consultado em 12 de fevereiro de 2020
+↑
+«Eficácia ditou resultado - FC Famalicão»
+.
+FC Famalicão
+. 4 de agosto de 2019
+. Consultado em 4 de agosto de 2019
+↑
+«Liga Portugal»
+.
+www.ligaportugal.pt
+. Consultado em 16 de maio de 2022
+↑
+«Allianz CUP 2021-2022»
+.
+www.ligaportugal.pt
+. Consultado em 13 de julho de 2023
+↑
+«Liga Portugal»
+.
+www.ligaportugal.pt
+. Consultado em 13 de julho de 2023
+↑
+«FC Porto segue para o Jamor»
+.
+FPF
+. 6 de abril de 2023
+. Consultado em 13 de julho de 2023
+↑
+«Allianz CUP»
+.
+www.ligaportugal.pt
+. Consultado em 13 de julho de 2023
+↑
+«Famalicão e Daniel Ramos anunciam fim de ligação»
+.
+SAPO Desporto
+. 17 de maio de 2016
+. Consultado em 11 de março de 2020
+↑
+«Ulisses Morais assume comando técnico do Famalicão para 'ganhar sempre
+'
+»
+.
+SAPO Desporto
+. 27 de maio de 2016
+. Consultado em 11 de março de 2020
+↑
+«Rui Silva dirige a equipa frente ao Sporting»
+.
+Record
+. 12 de outubro de 2016
+. Consultado em 11 de março de 2020
+↑
+«Nandinho é o novo treinador do Famalicão»
+.
+SAPO Desporto
+. 17 de outubro de 2016
+. Consultado em 11 de março de 2020
+↑
+«Vasco Seabra é o novo treinador do FC Famalicão»
+.
+Diário do Minho
+. 24 de janeiro de 2018
+. Consultado em 11 de março de 2020
+↑
+«Carlos Pinto oficializado como novo técnico do Famalicão»
+.
+Record
+. 18 de março de 2019
+. Consultado em 11 de março de 2020
+↑
+«João Pedro Sousa é o novo treinador do Famalicão»
+.
+Record
+. 31 de maio de 2019
+. Consultado em 11 de março de 2020
+↑
+«Ivo Vieira é o novo treinador do FC Famalicão – FC Famalicão»
+. Consultado em 1 de outubro de 2021
+↑
+«Rui Pedro Silva é o novo treinador do FC Famalicão»
+.
+FC Famalicão
+. 19 de dezembro de 2021
+. Consultado em 16 de maio de 2022
+1
+2
+SAPO.
+«FPF considera Taça feminina de futebol "feito maior" na história do Famalicão»
+.
+SAPO Desporto
+. Consultado em 10 de abril de 2025
+↑
+«Fut. Feminino: Sub-19 vencem torneio»
+.
+FC Famalicão
+. 18 de setembro de 2019
+. Consultado em 18 de setembro de 2019
+↑
+«Presidentes – FC Famalicão»
+.
+FC Famalicão
+. Consultado em 26 de maio de 2019
+1
+2
+3
+«Palmarés»
+.
+FC Famalicão
+. 25 de setembro de 2011
+. Consultado em 20 de setembro de 2019
+↑
+«Famalicão e Leixões entram na Liga Revelação»
+.
+Record
+. 29 de maio de 2019
+. Consultado em 5 de julho de 2019
+↑
+«FC Famalicão adere ao eSports com duas contratações»
+.
+FC Famalicão
+. 27 de setembro de 2019
+. Consultado em 26 de julho de 2020
+Ligações externas
+[
+editar
+|
+editar código
+]
+«Página do Clube»
+Futebol Clube de Famalicão
+no
+Facebook
+Futebol Clube de Famalicão
+no
+Instagram
+Futebol Clube de Famalicão
+no
+X
+Competições
+v
+d
+e
+Futebol em Portugal
+Federação Portuguesa de Futebol
+•
+Liga Portugal
+•
+Sistema de Ligas
+•
+Competições de Futebol
+Competições Masculinas
+Campeonato
+Primeira Liga
+Segunda Liga
+Terceira Liga
+Campeonato de Portugal
+Campeonatos distritais
+(
+primeiro nível
+•
+segundo nível
+•
+terceiro nível
+•
+quarto nível
+)
+Liga Revelação
+Campeonatos de Formação
+Taças
+Taça de Portugal
+Taça da Liga
+Supertaça Cândido de Oliveira
+Taça Revelação
+Competições Femininas
+Campeonato
+Campeonato Nacional
+Segunda Divisão
+Terceira Divisão
+Quarta Divisão
+Campeonatos de Formação
+Taças
+Taça de Portugal
+Taça da Liga
+Supertaça
+Competições Extintas
+Segunda Divisão
+Terceira Divisão
+Taça Ribeiro dos Reis
+Taça FPF
+Liga Intercalar
+Por Distrito/Região
+Açores
+Algarve
+Braga
+Lisboa
+Madeira
+Porto
+Setúbal
+Seleções Nacionais
+Seleção Masculina
+Seleção Feminina
+S21
+S20
+S19
+S17
+Prémios
+Bola de Prata
+Prémios da LPFP
+Palmarés Oficial
+Clubes
+•
+Estádios
+•
+Academias
+•
+Futebolistas
+•
+Treinadores
+•
+Clássicos
+•
+Claques
+•
+Sócios e Assistências
+•
+Equipamentos
+v
+d
+e
+Campeonato Português de Futebol de 2025–26
+Primeira Liga
+Alverca
+Arouca
+AVS
+Benfica
+Braga
+Casa Pia
+Estoril
+Estrela da Amadora
+Famalicão
+Gil Vicente
+Moreirense
+Nacional
+Porto
+Rio Ave
+Santa Clara
+Sporting
+Tondela
+Vitória SC
+Segunda Liga
+Académico de Viseu
+Benfica B
+Chaves
+Farense
+Feirense
+Felgueiras
+Leixões
+Lusitânia Lourosa
+Marítimo
+Oliveirense
+Paços de Ferreira
+Penafiel
+Portimonense
+Porto B
+Sporting B
+Torreense
+União de Leiria
+Vizela
+Liga 3
+Série A
+Amarante
+Braga B
+Fafe
+Marco 09
+Paredes
+Sanjoanense
+São João de Ver
+Trofense
+Varzim
+Vitória SC B
+Série B
+1º Dezembro
+Académica de Coimbra
+Amora
+Atlético CP
+Os Belenenses
+Caldas
+Covilhã
+Mafra
+Lusitano de Évora
+União de Santarém
+Campeonato
+de Portugal
+Série A
+Bragança
+Brito
+Camacha
+Celoricense
+Chaves B
+Limianos
+Machico
+Mirandela
+Monção
+Ribeira Brava
+São Martinho
+Tirsense
+Vianense
+Vilaverdense
+Série B
+Alpendorada
+Anadia
+Aparecida
+Beira-Mar
+Cinfães
+Florgrade
+Gouveia
+Leça
+Rebordosa
+Resende
+Salgueiros
+União de Lamas
+Vila Meã
+Vila Real
+Série C
+Benfica Castelo Branco
+Eléctrico
+Fátima
+Lusitânia
+Marinhense
+Mortágua
+Naval 1893
+Oliveira do Hospital
+Os Marialvas
+Peniche
+Samora Correia
+União da Serra
+Vitória de Sernache
+Série D
+Alcochetense
+Alverca B
+Comércio e Indústria
+Juventude Évora
+Lagoa
+Louletano
+Malveira
+Moncarapachense
+O Elvas
+Oriental
+Portimonense B
+Vasco da Gama
+Serpa
+Sintrense
+Portal do futebol
+Portal de Portugal
+Controle de autoridade
+:
+Q1387105
+WorldCat
+VIAF
+:
+144802027
+Obtida de "
+https://pt.wikipedia.org/w/index.php?title=Futebol_Clube_de_Famalicão&amp;oldid=72309029
+"
+Categorias
+:
+AF Braga
+Futebol Clube de Famalicão
+Clubes de futebol de Vila Nova de Famalicão
+Clubes de futebol fundados em 1931
+Fundações em Portugal em 1931
+Categorias ocultas:
+!CS1 inglês-fontes em língua (en)
+!Artigos que carecem de notas de rodapé desde abril de 2025
+!Artigos que carecem de notas de rodapé sem indicação de tema
+!Nome de usuário do Facebook igual ao Wikidata
+!Nome de usuário do Instagram igual ao Wikidata
+!Nome de usuário do Twitter igual ao Wikidata
+Esta página foi editada pela última vez em 25 de maio de 2026, às 00h18min.
+A página foi renderizada com
+Parsoid
+.
+Este texto é disponibilizado nos termos da licença
+Atribuição-CompartilhaIgual 4.0 Internacional (CC BY-SA 4.0) da Creative Commons
+;
+pode estar sujeito a condições adicionais.
+Para mais detalhes, consulte as
+condições de utilização
+.
+Política de privacidade
+Sobre a Wikipédia
+Avisos gerais
+Contactos Legais e Segurança
+Código de Conduta
+Desenvolvedores
+Estatísticas
+Declaração sobre cookies
+Versão móvel
+Busca
+Procurar
+Alternar o índice
+Futebol Clube de Famalicão
+35 idiomas
+Adicionar tópico
